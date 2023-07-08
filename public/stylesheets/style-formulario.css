@@ -50,11 +50,11 @@ body {
   }
   
   input:required, select:required {
-    border-color: #ff0000;
+    border-color: #864a4a;
   }
   
   input:invalid, select:invalid {
-    border-color: #ff0000;
+    border-color: #d18f2c;
   }
   
   input:valid, select:valid {
